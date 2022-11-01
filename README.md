@@ -7,7 +7,7 @@ Absolute paths begin at the **src** level.
 
 ```
 <script>
-   import constants from "/src/localStorage/static/constants.json";
+   import constants from "/src/static/constants.json";
 </script>
 ```
 Referring later in HTML:
